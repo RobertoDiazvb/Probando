@@ -11,6 +11,7 @@ package Entidad;
  */
 public class Circunferencia {
     private double radio;
+    private double radio2;
 //constructor vacio
     public Circunferencia() {
     }
